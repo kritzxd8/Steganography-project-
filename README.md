@@ -1,4 +1,4 @@
-Steganography Project
+STEGANOGRAPHY PROJECT
 
 Overview
 
@@ -6,21 +6,22 @@ This project implements steganography, the practice of concealing information wi
 
 Features
 
-Encoding: Hide a secret message inside an image.
+- Encoding: Hide a secret message inside an image.
 
-Decoding: Extract a hidden message from an encoded image.
+- Decoding: Extract a hidden message from an encoded image.
 
-Supported Formats: Works with PNG and JPEG images.
+- Supported Formats: Works with PNG and JPEG images.
 
-User-Friendly Interface: Simple command-line or graphical user interface.
+- User-Friendly Interface: Simple command-line or graphical user interface.
 
-Security: Optional encryption for additional security.
+- Security: Optional encryption for additional security.
 
 Installation
 
-Prerequisites
+* Prerequisites
 
-Python 3.x
+     Python 3.x
 
-Required libraries:
-pip install numpy pillow opencv-python cryptography
+     Required libraries:
+
+        pip install numpy pillow opencv-python cryptography
